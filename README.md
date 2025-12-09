@@ -94,6 +94,9 @@ while True:
 ## 시각화 인사이트
 
 ![](visuals/trend_daily.png)
+![](visuals/trend_daily_smooth.png)
+![](visuals/trend_daily.png)
+![](visuals/trend_daily.png)
 
 1. 일별로는 매우 불규칙하고 급등락이 반복되는 뭉텅이형 분포(busty pattern)
 - 이동평균(rolling average)은 불규칙한 일일 변동을 안정적으로 정제해줌
